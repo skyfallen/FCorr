@@ -2,7 +2,7 @@
 FCorr: Fast approximate max-correlation queries
 ==================================================================
 
-TODO: Modify the whole file as necessary.
+This package is under construction.
 
 This is a "long description" file for the package that you are creating.
 If you submit your package to PyPi, this text will be presented on the `public page <http://pypi.python.org/pypi/python_package_boilerplate>`_ of your package.
